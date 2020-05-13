@@ -1,7 +1,7 @@
 package com.bcopstein;
 
 public class App{
-    public static void main(String args[]){
+    public static void main(String[] args){
         ElementoDeExpressao exp;
         exp = Calculadora.avalia("5+4-2+3");
         System.out.println(exp.toString()+" = "+exp.valor());

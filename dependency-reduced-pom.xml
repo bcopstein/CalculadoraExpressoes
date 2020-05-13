@@ -134,5 +134,10 @@
       </exclusions>
     </dependency>
   </dependencies>
+  <properties>
+    <sonar.projectKey>bcopstein/Calculadora-de-expressoes</sonar.projectKey>
+    <sonar.organization>Bernardo Copstein</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  </properties>
 </project>
 
