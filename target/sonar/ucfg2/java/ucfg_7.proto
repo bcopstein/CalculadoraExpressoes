@@ -1,0 +1,88 @@
+
+´com.bcopstein.Calculadora#montaOperadorBinario(Lcom/bcopstein/ElementoDeExpressao;Ljava/lang/String;Lcom/bcopstein/ElementoDeExpressao;)Lcom/bcopstein/ElementoDeExpressao;T
+JC:/A_BCopstein/CalcExpressoes/src/main/java/com/bcopstein/Calculadora.java'& '(:"2"3"4"5"6*π
+2T
+JC:/A_BCopstein/CalcExpressoes/src/main/java/com/bcopstein/Calculadora.java2 2("^
+T
+JC:/A_BCopstein/CalcExpressoes/src/main/java/com/bcopstein/Calculadora.java2 2(
+""*Ã
+3T
+JC:/A_BCopstein/CalcExpressoes/src/main/java/com/bcopstein/Calculadora.java/ /(ùö
+T
+JC:/A_BCopstein/CalcExpressoes/src/main/java/com/bcopstein/Calculadora.java0 0(&#
+%6com.bcopstein.OperadorDivisao"com.bcopstein.OperadorDivisao—
+Œ
+T
+JC:/A_BCopstein/CalcExpressoes/src/main/java/com/bcopstein/Calculadora.java0 0(4
+%7"mcom.bcopstein.OperadorDivisao#<init>(Lcom/bcopstein/ElementoDeExpressao;Lcom/bcopstein/ElementoDeExpressao;)V*%
+#
+%6com.bcopstein.OperadorDivisao*,
+*
+opEsq!com.bcopstein.ElementoDeExpressao*,
+*
+opDir!com.bcopstein.ElementoDeExpressao"}
+T
+JC:/A_BCopstein/CalcExpressoes/src/main/java/com/bcopstein/Calculadora.java0 0(5%
+#
+%6com.bcopstein.OperadorDivisao*Î
+4T
+JC:/A_BCopstein/CalcExpressoes/src/main/java/com/bcopstein/Calculadora.java- -(©¶
+T
+JC:/A_BCopstein/CalcExpressoes/src/main/java/com/bcopstein/Calculadora.java. .(,)
+%4#com.bcopstein.OperadorMultiplicacao"#com.bcopstein.OperadorMultiplicacao›
+⁄
+T
+JC:/A_BCopstein/CalcExpressoes/src/main/java/com/bcopstein/Calculadora.java. .(:
+%5"scom.bcopstein.OperadorMultiplicacao#<init>(Lcom/bcopstein/ElementoDeExpressao;Lcom/bcopstein/ElementoDeExpressao;)V*+
+)
+%4#com.bcopstein.OperadorMultiplicacao*,
+*
+opEsq!com.bcopstein.ElementoDeExpressao*,
+*
+opDir!com.bcopstein.ElementoDeExpressao"É
+T
+JC:/A_BCopstein/CalcExpressoes/src/main/java/com/bcopstein/Calculadora.java. .(;+
+)
+%4#com.bcopstein.OperadorMultiplicacao*÷
+5T
+JC:/A_BCopstein/CalcExpressoes/src/main/java/com/bcopstein/Calculadora.java+ +(°û
+T
+JC:/A_BCopstein/CalcExpressoes/src/main/java/com/bcopstein/Calculadora.java, ,((%
+%2com.bcopstein.OperadorSubtracao"com.bcopstein.OperadorSubtracao’
+“
+T
+JC:/A_BCopstein/CalcExpressoes/src/main/java/com/bcopstein/Calculadora.java, ,(6
+%3"ocom.bcopstein.OperadorSubtracao#<init>(Lcom/bcopstein/ElementoDeExpressao;Lcom/bcopstein/ElementoDeExpressao;)V*'
+%
+%2com.bcopstein.OperadorSubtracao*,
+*
+opEsq!com.bcopstein.ElementoDeExpressao*,
+*
+opDir!com.bcopstein.ElementoDeExpressao"
+T
+JC:/A_BCopstein/CalcExpressoes/src/main/java/com/bcopstein/Calculadora.java, ,(7'
+%
+%2com.bcopstein.OperadorSubtracao*Ω
+6T
+JC:/A_BCopstein/CalcExpressoes/src/main/java/com/bcopstein/Calculadora.java) )(óî
+T
+JC:/A_BCopstein/CalcExpressoes/src/main/java/com/bcopstein/Calculadora.java* *(# 
+%0com.bcopstein.OperadorSoma"com.bcopstein.OperadorSomaÀ
+»
+T
+JC:/A_BCopstein/CalcExpressoes/src/main/java/com/bcopstein/Calculadora.java* *(0
+%1"jcom.bcopstein.OperadorSoma#<init>(Lcom/bcopstein/ElementoDeExpressao;Lcom/bcopstein/ElementoDeExpressao;)V*"
+ 
+%0com.bcopstein.OperadorSoma*,
+*
+opEsq!com.bcopstein.ElementoDeExpressao*,
+*
+opDir!com.bcopstein.ElementoDeExpressao"z
+T
+JC:/A_BCopstein/CalcExpressoes/src/main/java/com/bcopstein/Calculadora.java* *(1"
+ 
+%0com.bcopstein.OperadorSoma:*
+opEsq!com.bcopstein.ElementoDeExpressao:
+operadorjava.lang.String:*
+opDir!com.bcopstein.ElementoDeExpressaoB"
+com.bcopstein.Calculadora

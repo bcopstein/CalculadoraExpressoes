@@ -1,0 +1,29 @@
+
+:com.bcopstein.OperadorSubtracao#valor()Ljava/lang/Integer;Z
+PC:/A_BCopstein/CalcExpressoes/src/main/java/com/bcopstein/OperadorSubtracao.java ("1*±	
+1Z
+PC:/A_BCopstein/CalcExpressoes/src/main/java/com/bcopstein/OperadorSubtracao.java (†ƒ
+Z
+PC:/A_BCopstein/CalcExpressoes/src/main/java/com/bcopstein/OperadorSubtracao.java ('
+%0!com.bcopstein.ElementoDeExpressao"Kcom.bcopstein.OperadorBinario#getOpEsq()Lcom/bcopstein/ElementoDeExpressao;*#!
+com.bcopstein.OperadorSubtracao2
+getOpEsq()êç
+Z
+PC:/A_BCopstein/CalcExpressoes/src/main/java/com/bcopstein/OperadorSubtracao.java (!
+%1java.lang.Integer"<com.bcopstein.ElementoDeExpressao#valor()Ljava/lang/Integer;*)
+'
+%0!com.bcopstein.ElementoDeExpressao2valor()†ƒ
+Z
+PC:/A_BCopstein/CalcExpressoes/src/main/java/com/bcopstein/OperadorSubtracao.java$ (.'
+%2!com.bcopstein.ElementoDeExpressao"Kcom.bcopstein.OperadorBinario#getOpDir()Lcom/bcopstein/ElementoDeExpressao;*#!
+com.bcopstein.OperadorSubtracao2
+getOpDir()êç
+Z
+PC:/A_BCopstein/CalcExpressoes/src/main/java/com/bcopstein/OperadorSubtracao.java$ (6
+%3java.lang.Integer"<com.bcopstein.ElementoDeExpressao#valor()Ljava/lang/Integer;*)
+'
+%2!com.bcopstein.ElementoDeExpressao2valor()"d
+Z
+PC:/A_BCopstein/CalcExpressoes/src/main/java/com/bcopstein/OperadorSubtracao.java (7
+""B#!
+com.bcopstein.OperadorSubtracao

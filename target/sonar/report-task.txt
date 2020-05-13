@@ -1,0 +1,7 @@
+organization=bcopstein
+projectKey=bcopstein_CalculadoraExpressoes
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.7830
+dashboardUrl=https://sonarcloud.io/dashboard?id=bcopstein_CalculadoraExpressoes
+ceTaskId=AXIODbH4G9CVEVhiPkx3
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXIODbH4G9CVEVhiPkx3

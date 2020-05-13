@@ -1,11 +1,11 @@
 package com.bcopstein;
 
 public class Calculadora {
-    private static final String regEx = "(?<=\\+)|(?=\\+)|(?<=\\-)|(?=\\-)|(?<=\\*)|(?=\\*)|(?<=\\/)|(?=\\/)";
+    private static final String REGEX = "(?<=\\+)|(?=\\+)|(?<=\\-)|(?=\\-)|(?<=\\*)|(?=\\*)|(?<=\\/)|(?=\\/)";
     // Por simplicidade as expressoes começam sempre por um numero positivo
     // e todos os operadores são binarios
 	public static ElementoDeExpressao avalia(String expression) {
-        String tokens[] = expression.split(regEx);
+        String tokens[] = expression.split(REGEX);
         ElementoDeExpressao expressao;
 
         // Monta o primeiro operador binário
