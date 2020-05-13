@@ -2,6 +2,11 @@ package com.bcopstein;
 
 public class Calculadora {
     private static final String REGEX = "(?<=\\+)|(?=\\+)|(?<=\\-)|(?=\\-)|(?<=\\*)|(?=\\*)|(?<=\\/)|(?=\\/)";
+    
+    private Calculadora() {
+        throw new IllegalStateException("Utility class");
+    }
+    
     // Por simplicidade as expressoes começam sempre por um numero positivo
     // e todos os operadores são binarios
 	public static ElementoDeExpressao avalia(String expression) {
